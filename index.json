@@ -1,3 +1,29 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "416a",
+      "title": "Beber água",
+      "description": "Beber água para se hidratar"
+    },
+    {
+      "id": "ce59",
+      "title": "Café da manhã",
+      "description": "Tomar o café da manhã as 8h"
+    },
+    {
+      "id": "071b",
+      "title": "Ir para a escola",
+      "description": "Ir para a escola as 13h"
+    },
+    {
+      "id": "236d",
+      "title": "Estudar JavaScript",
+      "description": "Estudar os fundamentos do JavaScript"
+    },
+    {
+      "id": "26c6",
+      "title": "Estudar React - useState",
+      "description": "Estudar os fundamentos do useState do React"
+    }
+  ]
 }
