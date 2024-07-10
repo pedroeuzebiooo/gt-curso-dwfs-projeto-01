@@ -205,7 +205,6 @@ pnpm run dev
     </td>
   </tr>
 </table>
-
 <h2>📝 Licença</h2>
 
 <p>
